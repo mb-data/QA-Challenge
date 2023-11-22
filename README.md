@@ -18,6 +18,8 @@ A aplicação é composta por 4 componentes:
 - TypeSelector: Componente de seleção de tipo de juros
 - Calculator: Componente de calculadora, que usa os outros componentes para calcular o valor final
 
+<img width="1354" alt="Screen Shot 2023-11-21 at 22 16 33" src="https://github.com/mb-data/QA-Challenge/assets/830261/f94bcae2-def9-45fe-8c15-4e591ca918a2">
+
 ## Desafio
 
 Nesse desafio você deve executar as seguintes tarefas:
@@ -34,3 +36,7 @@ Esses itens não são obrigatórios, mas serão considerados como diferenciais:
 
 - [ ] Criar um pipeline de Github Actions ou Pre-commit/Husky para rodar os testes unitários e E2E
 - [ ] Adicionar qualquer outro tipo de ferramenta de teste que não esteja listada no desafio, como por exemplo, testes de performance ou testes de acessibilidade
+
+## Entrega
+
+Faça um fork público(ou privado com acessos para `arthurolga` e `alegodoyp`) em seu Github desse repositório, suba uma branch 'test/calculator', faça PR dessa branch para a branch 'master' de seu repositório. Em seguida envie o repositório para `arthur.olga@khipo.com.br` e `alexanndre.godoy@khipo.com.br` por e-mail avisando que concluiu o desafio.
