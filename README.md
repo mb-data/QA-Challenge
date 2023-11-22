@@ -18,7 +18,8 @@ A aplicação é composta por 4 componentes:
 - TypeSelector: Componente de seleção de tipo de juros
 - Calculator: Componente de calculadora, que usa os outros componentes para calcular o valor final
 
-<img width="1354" alt="Screen Shot 2023-11-21 at 22 16 33" src="https://github.com/mb-data/QA-Challenge/assets/830261/f94bcae2-def9-45fe-8c15-4e591ca918a2">
+<img width="1354" alt="Screen Shot 2023-11-21 at 22 16 33" src="https://github.com/mb-data/QA-Challenge/assets/830261/e17fdcac-d669-45ca-8d22-e51dd4bdfba6">
+
 
 ## Desafio
 
