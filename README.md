@@ -40,4 +40,4 @@ Esses itens não são obrigatórios, mas serão considerados como diferenciais:
 
 ## Entrega
 
-Faça um fork público(ou privado com acessos para `arthurolga` e `alegodoyp`) em seu Github desse repositório, suba uma branch 'test/calculator', faça PR dessa branch para a branch 'master' de seu repositório. Em seguida envie o repositório para `arthur.olga@khipo.com.br` e `alexanndre.godoy@khipo.com.br` por e-mail avisando que concluiu o desafio.
+Faça um fork público(ou privado com acessos para `arthurolga` e `alegodoyp`) em seu Github desse repositório, suba uma branch 'test/calculator', faça PR dessa branch para a branch 'master' de seu repositório. Em seguida envie o repositório para `arthur.olga@khipo.com.br` e `alexandre.godoy@khipo.com.br` por e-mail avisando que concluiu o desafio.
