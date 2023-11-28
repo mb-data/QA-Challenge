@@ -1,0 +1,6 @@
+{
+  "valorInicial": ":nth-child(2) > #valorInicial",
+  "taxaJuros": ":nth-child(3) > #valorInicial",
+  "tempo": ":nth-child(4) > #valorInicial",
+   "botaoCalcular": "#root > :nth-child(1) > :nth-child(5)"
+}
